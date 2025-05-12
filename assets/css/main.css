@@ -1002,7 +1002,12 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
-
+		img.fa-camera {
+			margin-left: 20px;
+		}
+.camera {
+	margin-left: 5px;
+}
 /* List */
 
 	ul.default {
