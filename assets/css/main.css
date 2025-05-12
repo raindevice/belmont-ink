@@ -618,6 +618,10 @@ input, select, textarea {
 		margin-bottom: 1em;
 	}
 
+	.quote {
+		font-size: 16px;
+	}
+
 /* Box */
 
 	.box {
@@ -970,7 +974,7 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 100%;
+			/* width: 100%; */
 		}
 
 		.image.featured {
