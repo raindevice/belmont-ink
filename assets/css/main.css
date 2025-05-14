@@ -622,6 +622,12 @@ input, select, textarea {
 		font-size: 18px;
 	}
 
+	h4 #alex-portfolio-anchor,
+	h4 #jenna-portfolio-anchor,
+	h4 #olan-portfolio-anchor {
+		color: rgb(138, 42, 42);
+	}
+
 /* Box */
 
 	.box {
